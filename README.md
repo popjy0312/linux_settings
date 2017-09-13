@@ -9,3 +9,5 @@ popjy0312@naver.com
 ## lists
 
 - addxinetd.sh
+
+- install_peda.sh
